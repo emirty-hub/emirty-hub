@@ -1,16 +1,16 @@
-## Hi there 👋
+# Merhaba, ben Emirhan Tayiz!
 
-<!--
-**emirty-hub/emirty-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Hakkımda
+* Kayseri Merkez Mesleki ve Teknik Anadolu Lisesi'nde Bilişim Teknolojileri 12. sınıf öğrencisiyim.
+* Yazılım ve elektronik ile ilgileniyorum; web, robotik ve mobil uygulamalar üzerine projeler geliştiriyorum.
+* Bir işi baştan sona bitirmeyi önemsiyorum ve şu an kendimi geliştirebileceğim bir staj yeri arıyorum.
 
-Here are some ideas to get you started:
+## 🛠️ Yeteneklerim ve Teknolojiler
+* **Web Geliştirme:** HTML (İyi), CSS (Orta), JavaScript (Orta)
+* **Mobil Geliştirme:** Kotlin (Temel), Android Studio
+* **Robotik & Donanım:** Arduino[cite: 1]
+* **Versiyon Kontrol:** Git & GitHub[cite: 1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 İletişim
+* **E-posta:** emirtayiz123@gmail.com[cite: 1]
+* **Konum:** Kayseri[cite: 1]

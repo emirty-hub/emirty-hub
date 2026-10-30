@@ -1,4 +1,4 @@
-# Merhaba, ben Emirhan Tayiz!
+# Merhaba, ben Emirhan 
 
 ## 👨‍💻 Hakkımda
 * Kayseri Merkez Mesleki ve Teknik Anadolu Lisesi'nde Bilişim Teknolojileri 12. sınıf öğrencisiyim.
